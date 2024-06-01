@@ -1,0 +1,49 @@
+body{
+	font-size: 15px;
+}
+p{
+	font-size:25px;
+}
+h1{ 
+	border:3px red dotted;
+	border-color: brown;
+	border-left-color: red;
+	border-right-color: green;
+	border-top-color:magenta;
+	border-bottom-color: yellow; 
+	text-align: center;
+	font-family: fantasy;
+	font size:25px;
+	color: green;
+
+}
+h2{
+	color: white;
+	font-style: italic;
+	text-align: center;
+	font-family: cursive;
+	font-size: 15px;
+
+}
+h3{
+	outline-color:red;
+} 
+h4{
+	font-size: 25px;
+	text-align: center;
+}
+h5{
+	font-size: 18px;
+}
+h6{
+	text-align: right;
+	font-size: 15px;
+}
+p{
+	font-size: 15px;
+	font-style: bold;
+}
+body{
+	color:none;
+	background:powderblue;
+	font-size:
